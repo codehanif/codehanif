@@ -1,12 +1,5 @@
 
 ## Heyyo, I'm <a href="https://muhammadhanif.me" target="_blank">Muhammad Hanif</a>!
-(Use dark theme to find my socials ;)
-
-
-
-<br />
-<br />
-<br />
 
 
 ### Languages and Tools:
@@ -30,18 +23,6 @@
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
 
-<br />
-<br />
-
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
 
 
 
