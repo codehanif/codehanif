@@ -1,5 +1,5 @@
 
-## Hello, I'm <a href="https://muhammadhanif.me" target="_blank">Muhammad Hanif</a>👋
+## Hello, I'm <a href="https://muhammadhanif.me" target="_blank">Muhammad Hanif 👋</a>
 
 
 ### Languages and Tools:
