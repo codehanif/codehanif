@@ -17,7 +17,7 @@
 <br />
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/vscode.png" />
+<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/vscode.png" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/vs.png"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/vim.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/photoshop.png"/> </a>
