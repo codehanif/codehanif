@@ -12,6 +12,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/javascript.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/react.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/typescript.png"/> </a>
 <br />
 <br />
 ### Softwares:
