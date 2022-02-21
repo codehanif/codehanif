@@ -1,8 +1,10 @@
 
 ## Hello, I'm <a href="https://muhammadhanif.me" target="_blank">Muhammad Hanif 👋</a>
 
+<img align="left" alt="GitHub" width="50%"  src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 ### Languages and Tools:
+
 
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
