@@ -1,6 +1,10 @@
 
 ## Hello, I'm <a href="https://haniflab.com" target="_blank">Muhammad Hanif 👋</a>
 
+![](https://komarev.com/ghpvc/?username=codehanif)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Languages and Tools:
 
@@ -23,7 +27,10 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/vim.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/photoshop.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/muhammadhanifID/muhammadhanifID/blob/main/figma.png"/> </a>
+<br/>
+<br/>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317z6t7fekgyqpsqqv2ylvg3tzou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=20f019&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
