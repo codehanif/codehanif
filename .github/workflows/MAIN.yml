@@ -15,14 +15,13 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v3.2.0
         with:
-          # You can customize these options
-          github_user: 'YOUR_GITHUB_USERNAME'
+          github_user: codehanif
           output: 'snake-game.gif' # or 'snake-game.svg'
           width: 800
           height: 600
 
       - name: Upload Snake Game
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-game
           path: snake-game.gif # or 'snake-game.svg'
