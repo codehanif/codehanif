@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=codehanif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codehanif&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages and Tools:
