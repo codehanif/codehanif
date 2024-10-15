@@ -30,9 +30,7 @@
 <br/>
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317z6t7fekgyqpsqqv2ylvg3tzou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=20f019&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/670d3e8a791f57dd60db4943?variant=dark)](https://roadmap.sh)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317z6t7fekgyqpsqqv2ylvg3tzou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=20f019&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) [![roadmap.sh](https://roadmap.sh/card/tall/670d3e8a791f57dd60db4943?variant=dark)](https://roadmap.sh)
 
 
 
